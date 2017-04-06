@@ -19,7 +19,7 @@ When the input is valid, the output of the program is a PDF as a URL.<br>
 
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/URL.png)  
 
-When the input is not valid(such as empty input, meaningless input and an input indicated a place has no representative), the output
+When the input is not valid(such as `empty input`, `meaningless input` and `an input indicated a place has no representative`), the output
 is `"Failed in Sending Letter"`.<br>
 I have tried several testcases, and here are the outputs:<br>
 
@@ -34,7 +34,12 @@ I have tried several testcases, and here are the outputs:<br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/nonsense.png) <br>
 
 // 过程中的问题
+## Correction for Your Website Tutorial
    // 1. data()
+In the API Java tutorial, the part 
+   [Letter API](https://lob.com/docs/java#letters_create)
+may have missed a `.data(data)`. Otherwise the name, "Harry" may not pass into the builder. 
+![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/datacrt.png)  
    // 2. part?
    
 // 有信心让它的介绍变得更加易懂
