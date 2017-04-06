@@ -19,7 +19,7 @@ The output of the program is a PDF as a URL.<br>
    // 好的和边角的<br>
 [PDF URL](https://s3-us-west-2.amazonaws.com/assets.lob.com/ltr_61d64ad5e1beef96.pdf?AWSAccessKeyId=AKIAIILJUBJGGIBQDPQQ&Expires=1494063479&Signature=S0094sjzOxcTIwQlD99%2BXU61m9Q%3D)<br>
 
-[!sampleOutput]:https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sampleOutput.png "sampleOutput" <br> 
+
 
    >* The Output of Sample Input<br>
    
@@ -33,4 +33,5 @@ The output of the program is a PDF as a URL.<br>
    
 // 有信心让它的介绍变得更加易懂
 
-// 编程思想
+// 编程思想<br>
+[!sampleOutput]:https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sampleOutput.png "sampleOutput" <br> 
