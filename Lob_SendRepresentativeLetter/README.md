@@ -13,7 +13,7 @@ The project is written in Java and use Maven for management.<br>
 ## How to input parameters
 I choose to Build a command line program for the project.<br>
 You can input the parameters following the instructions when running the program.<br>
-![](https://github.com/ffrqw/ImageCache/raw/master/Lob_SendRepresentativeLetter/sample_input.png) <br> 
+![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sample_input.png) <br> 
 // 得到结果
    // 好的和边角的
 
