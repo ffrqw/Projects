@@ -9,7 +9,7 @@ The project is written in Java and use Maven for management.<br>
    * pom.xml<br>
 
 ## How to input parameters
-I choose to Build a `command line program` for the project.<br>
+I choose to build a `command line program` for the project.<br>
 You can input the parameters following the instructions when running the program.<br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sample_input.png) 
 
@@ -39,11 +39,6 @@ In the API Java tutorial, the part
 may have missed a `.data(data)`. Otherwise the name, "Harry" may not pass into the builder. <br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/datacrt.png)  
 
-## Confusion about the pom.xml in [lob-java github](https://github.com/lob/lob-java)
-
-
-## Improvement of API Tutorial
+## Improvement of Your API Tutorial
 During the process of doing the project, I benifited a lot from the tutorial. Yet I still sometimes misunderstood the meaning of the API Tutorial.<br>
 After the adventure of this project with the tutorial, I have a special view for the tutorial which I believe can help improve the Tutorial to a greater level, and make it even more friendly to new developer.
-
-
