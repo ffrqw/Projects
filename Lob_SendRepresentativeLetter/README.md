@@ -1,4 +1,3 @@
-
 # Haoming Zhang<br>
    Email: zanhoming@gmail.com      Phone:424-402-7028
 <br>
@@ -34,16 +33,17 @@ I have tried several testcases, and here are the outputs:<br>
    >* The Output of meaningless input<br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/nonsense.png) <br>
 
-// 过程中的问题
-## Correction for Your Website Tutorial
+## Correction for Your Java API Tutorial
 In the API Java tutorial, the part 
    [Letter API](https://lob.com/docs/java#letters_create)
 may have missed a `.data(data)`. Otherwise the name, "Harry" may not pass into the builder. <br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/datacrt.png)  
 
 ## Confusion about the pom.xml in [lob-java github](https://github.com/lob/lob-java)
-   
-// 有信心让它的介绍变得更加易懂
 
-// 编程思想<br>
+
+## Improvement of API Tutorial
+During the process of doing the project, I benifited a lot from the tutorial. Yet I still sometimes misunderstood the meaning of the API Tutorial.<br>
+After the adventure of this project with the tutorial, I have a special view for the tutorial which I believe can help improve the Tutorial to a greater level, and make it even more friendly to new developer.
+
 
