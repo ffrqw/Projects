@@ -18,7 +18,7 @@ The output of the program is a PDF as a URL.<br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/URL.png) <br> 
    // 好的和边角的
    >* The Output of Sample Input
-   ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sampleOutput.pdf) <br>
+   ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/sampleOutput.png) <br>
    >* 
 
 // 过程中的问题
