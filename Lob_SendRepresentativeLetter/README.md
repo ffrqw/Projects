@@ -36,12 +36,12 @@ I have tried several testcases, and here are the outputs:<br>
 
 // 过程中的问题
 ## Correction for Your Website Tutorial
-   // 1. data()
 In the API Java tutorial, the part 
    [Letter API](https://lob.com/docs/java#letters_create)
-may have missed a `.data(data)`. Otherwise the name, "Harry" may not pass into the builder. 
+may have missed a `.data(data)`. Otherwise the name, "Harry" may not pass into the builder. <br>
 ![](https://github.com/ffrqw/Projects/raw/master/Lob_SendRepresentativeLetter/datacrt.png)  
-   // 2. part?
+
+## Confusion about the pom.xml in [lob-java github](https://github.com/lob/lob-java)
    
 // 有信心让它的介绍变得更加易懂
 
